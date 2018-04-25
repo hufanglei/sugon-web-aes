@@ -1,0 +1,20 @@
+{
+  "name": "sugon-web-aes",
+  "authors": [
+    "hfl <690328661@qq.com>"
+  ],
+  "description": "sugon-web-aes",
+  "main": "sugon-web-aes.js",
+  "keywords": [
+    "sugon-web-aes"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
